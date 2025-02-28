@@ -1,17 +1,12 @@
-# Apple Website Clone Project
+# React + Vite
 
-## Contributors
-- **Malhar Mahajan**
-- **Dhyan Aran**
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Overview
-This project is a clone of the Apple website, built using **GSAP**, **Three.js**, **JavaScript**, and **React**. The goal of this project is to practice and showcase our skills in web development, animation, and 3D rendering.
+Currently, two official plugins are available:
 
-## Technologies Used
-- **GSAP** for smooth animations
-- **Three.js** for 3D rendering
-- **JavaScript** for interactivity and functionality
-- **React** for building the UI components
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Acknowledgment
-We would like to clarify that this project is being developed solely for educational purposes and to showcase our skills. It is not intended to infringe upon or harm any company, brand, or label. The Apple logo and website design are trademarks of Apple Inc., and this project is a simple clone for practice and learning.
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
