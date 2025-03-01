@@ -6,12 +6,12 @@ import { navLists } from "../constants/index.js";
 
 const Navbar = () => {
   return (
-    <header className="w-full py-5 sm:px-10 px-5 flex justify-between items-center bg-red-500">
+    <header className="w-full py-5 sm:px-10 px-5 flex justify-between items-center ">
 
       <nav className="flex w-full screen-max-width">
         <img src={appleImg} alt="Apple" width={14} height={18} />
 
-        <div className="flex flex-1 justify-center max-sm:hidden">
+        <div className="flex flex-1 justify-center ">
           {["Store", "Mac", "iPhone", "Support"].map((nav) => (
             <div key={nav} className="px-5 text-sm cursor-pointer text-gray-300 hover:text-white transition-all">
               {nav}
