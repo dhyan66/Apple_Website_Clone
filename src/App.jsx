@@ -8,9 +8,11 @@ const App = () => {
 
   return (
     <main className ="bg-black">
-      <Navbar></Navbar>
-      <Hero></Hero>
-      <VideoCarousel></VideoCarousel>
+     <Navbar />
+      <Hero />
+      <Highlights />
+     
+      
     </main>
   )
 }
