@@ -176,15 +176,7 @@ Happy coding, and feel free to share your thoughts and improvements with the [Ne
 
 You can also give this repository a star to show more people and they can use this repository.
 
-## :star2: Star History
 
-<a href="https://star-history.com/#sanidhyy/apple-clone&Timeline">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanidhyy/apple-clone&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanidhyy/apple-clone&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanidhyy/apple-clone&type=Timeline" />
-</picture>
-</a>
 
 <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
