@@ -3,7 +3,7 @@ import React, { useRef } from "react";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 
-import { explore1Img, explore2Img, exploreVideo } from "../assets";
+import { explore1Img, explore2Img, exploreVideo } from "../utils";
 import { animateWithGsap } from "../utils/animations";
 
 const Features = () => {
