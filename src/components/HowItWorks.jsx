@@ -3,7 +3,7 @@ import React, { useRef } from "react";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 
-import { chipImg, frameImg, frameVideo } from "../assets";
+import { chipImg, frameImg, frameVideo } from "../utils";
 import { animateWithGsap } from "../utils/animations";
 
 const HowItWorks = () => {
